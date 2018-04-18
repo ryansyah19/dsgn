@@ -87,7 +87,7 @@ body{
 	padding-left:17%;
 	color:#7acec3;
 	padding-top:5%;
-	padding-bottom:10%;
+	padding-bottom:11%;
 }
 
 .fa{
@@ -336,7 +336,7 @@ body{
 .duad h1{
 	font-weight:100;
 	padding-left:15%;
-	margin-top: -25%;
+	margin-top: -10%;
 	font-size:22px;
 	font-family: 'RobotoCondensed-Light';
 }
@@ -359,6 +359,7 @@ body{
 	float:right;
 	width:33%;
 	background-color:#f7f7f3;
+	padding-bottom: 1%;
 }
 
 .love h5{
@@ -519,9 +520,10 @@ body{
 }
 
 .tos{
-	width:80%;
-	margin-left: 10%;
+	width: 60%;
+    margin-left: 20%;
     margin-right: 10%;
+	padding-top:5%;
 }
 
 .vih{
@@ -613,6 +615,7 @@ body{
 	width:44%;
 	padding-top:2%;
 	height:244px;
+	padding-top: 2%;
 }
 
 .duas{
@@ -627,6 +630,7 @@ body{
 	float:left;
 	width:23%;
 	height:271px;
+	padding-top: 2%;
 }
 
 .empatc{
@@ -694,8 +698,9 @@ body{
 }
 
 .empatc{
-	background:url(image/oren.png) 100% no-repeat;
-	height: 271px;
+	background:url(image/oren.png) 415% no-repeat;
+	background-color:#ebb240;
+	height: 298px;
 }
 
 .empatc img{
@@ -749,7 +754,7 @@ body{
 	float:left;
 	background-color:#ff9b6d;
 	background-size:cover;
-	padding-bottom: 134px;
+	padding-bottom: 113px;
 }
 
 .limab{
@@ -759,28 +764,28 @@ body{
 }
 
 .limab h3{
-	padding-left: 10%;
+	padding-left: 7%;
     padding-top: 4%;
     font-size: 16px;
     font-family: 'RobotoCondensed-Italic';
-    width: 33%;
+    width: 38%;
     font-weight: 500;
 }
 
 .limab h4{
-	padding-left: 10%;
+	padding-left: 7%;
     font-size: 16px;
     font-family: 'RobotoCondensed-Light';
-    width: 33%;
+    width: 38%;
     font-weight: 500;
 }
 
 .limab h5{
-	padding-left: 10%;
+	padding-left: 7%;
     margin-top:-1%;
     font-size: 16px;
     font-family: 'RobotoCondensed-Italic';
-    width: 33%;
+    width: 38%;
     font-weight: 500;
 }
 
@@ -860,6 +865,8 @@ body{
 
 .first{
 	display:inline-block;
+	padding-right: 2%;
+
 }
 
 .first h3{
@@ -884,6 +891,7 @@ body{
 
 .ara{
 	margin-left:2%;
+	margin-bottom: -1%;
 }
 
 .fasa{
@@ -898,7 +906,7 @@ body{
     float: left;
     background-color: #d4edbf;
     background-size: cover;
-	padding-bottom: 72px;
+	padding-bottom: 114px;
 }
 
 .tujuha h1{
@@ -906,7 +914,7 @@ body{
     font-size: 46px;
     margin-top: -45%;
     text-align: right;
-    padding-right: 25%;
+    padding-right: 35%;
     font-weight: 100;
     font-family: 'RobotoCondensed-Regular';
 }
@@ -922,6 +930,7 @@ body{
 	padding-left: 8%;
     font-size: 24px;
     width: 90%;
+	padding-top: 10%;
 }
 
 .tujuhb h2{
@@ -949,12 +958,16 @@ body{
 	padding-right:8%;
 	color:#f35804;
 	font-family: 'RobotoCondensed-Regular';
-	font-size:15px;
+	font-size: 15px;
+    margin-top: -2%;
+    font-weight: 100;
+    padding-bottom: 6%;
 }
 
 .second{
 	width:49%;
 	display:inline-block;
+	margin-right: -3%;
 }
 
 .delapana img{
@@ -1124,6 +1137,15 @@ a:hover .allu::before{
 }
 }
 
+@media (max-width: 1361px){
+	.limaa {
+    float: left;
+    background-color: #ff9b6d;
+    background-size: cover;
+    padding-bottom: 134px;
+}
+}
+
 @media (max-width:1357px){
 	.tujuhb {
     float: left;
@@ -1153,6 +1175,12 @@ a:hover .allu::before{
 }
 
 @media (max-width:1350px){
+	
+	.empatc{
+	background: url(image/oren.png) 315% no-repeat;
+	background-color: #ebb240;
+	}
+	
 	.limab {
     float: left;
     background-color: #e5e9df;
@@ -1258,6 +1286,13 @@ a:hover .allu::before{
 }
 
 @media(max-width:1324px){
+	
+	.empatc{
+	background: url(image/oren.png) 115% no-repeat;
+	background-color: #ebb240;
+	}
+	
+	
 	.limab {
     float: left;
     background-color: #e5e9df;
@@ -1507,7 +1542,7 @@ a:hover .all::before{
 @media (max-width:1261px){
 	
 	.limaa {
-    padding-bottom: 11.5%;
+    padding-bottom: 9.5%;
 }
 }
 
@@ -1553,7 +1588,7 @@ a:hover .all::before{
 
 @media (max-width: 1229px){
 	.limaa {
-    padding-bottom: 13.2%;
+    padding-bottom: 9.2%;
 }
 
 	.limab img {
@@ -1762,7 +1797,7 @@ a:hover .all::before{
 
 @media (max-width: 1147px){
 	.limaa {
-    padding-bottom: 15.1%;
+    padding-bottom: 9.1%;
 }
 
 .duab{
@@ -1792,7 +1827,7 @@ a:hover .all::before{
 
 @media (max-width: 1131px){
 	.limaa {
-     padding-bottom: 19.5%;
+     padding-bottom: 9.5%;
 }
 	
 	.tujuha{
@@ -1825,6 +1860,10 @@ a:hover .all::before{
 @media (max-width: 1116px){
 	.tujuha {
     padding-bottom: 2%;
+}
+
+.limaa {
+    padding-bottom: 9.4%;
 }
 }
 
@@ -1869,11 +1908,28 @@ a:hover .all::before{
 	.duab{
 	background: url(image/lampu.png) 4000% 0 no-repeat;
 	}
+	
+	.limaa {
+    padding-bottom: 9.3%;
+}
 }
 
 @media (max-width: 1100px){
+	
+	.empatc{
+	background: url(image/oren.png) 100% no-repeat;
+	background-color: #ebb240;
+	}
+	
+	
 	.tujuha {
     padding-bottom: 1.6%;
+}
+}
+
+@media (max-width: 1097px){
+	.limaa {
+    padding-bottom: 11.3%;
 }
 }
 
@@ -1949,6 +2005,10 @@ a:hover .all::before{
 @media (max-width: 1069px){
 	.tujuha {
     padding-bottom: 0.8%;
+}
+
+	.limaa {
+    padding-bottom: 13.1%;
 }
 }
 
@@ -2278,7 +2338,7 @@ a:hover .allu::before{
 	
 	.empatc{
 		width:50%;
-	    height: 271px;
+	    height: 292px;
 	}
 	
 	.empatc img{
@@ -2325,9 +2385,15 @@ a:hover .allu::before{
 }
 }
 
+@media (max-width: 1015px){
+	.limaa {
+     padding-bottom: 15%;
+}
+}
+
 @media (max-width: 1013px){
 	.limaa {
-     padding-bottom: 21.4%;
+     padding-bottom: 14.9%;
 }
 
 	.limaa h1{
@@ -2363,6 +2429,12 @@ a:hover .allu::before{
 	}
 }
 
+@media (max-width: 998px){
+	.limaa {
+    padding-bottom: 17.2%;
+}
+}
+
 @media (max-width: 996px){
 	.tujuha {
     padding-bottom: 1.5%;
@@ -2388,6 +2460,12 @@ a:hover .allu::before{
 @media (max-width: 986px){
 	.tujuha {
     padding-bottom: 1.2%;
+}
+}
+
+@media (max-width: 984px){
+	.limaa {
+    padding-bottom: 19.5%;
 }
 }
 
@@ -2450,11 +2528,21 @@ a:hover .allu::before{
     float: left;
     margin-top: -2%;
 }
+
+.limaa {
+    padding-bottom: 25.5%;
+}
 }
 
 @media (max-width: 976px){
 	.tujuha {
     padding-bottom: 0.9%;
+}
+
+}
+@media (max-width:976px){
+	.limaa {
+    padding-bottom: 25.5%;
 }
 }
 @media (max-width: 973px){
@@ -2484,6 +2572,10 @@ a:hover .allu::before{
 @media (max-width: 961px){
 	.tujuha {
     padding-bottom: 0.5%;
+}
+
+.limaa{
+	padding-bottom:25%;
 }
 }
 
@@ -2528,21 +2620,15 @@ a:hover .allu::before{
 }
 }
 
+@media (max-width:919px){
+	.limaa {
+    padding-bottom: 27%;
+}
+}
+
 @media (max-width: 917px){
 	.tujuha {
     padding-bottom: 8.9%;
-}
-}
-
-@media (max-width:976px){
-	.limaa {
-    padding-bottom: 23.9%;
-}
-}
-
-@media (max-width:920px){
-	.limaa {
-    padding-bottom: 24.5%;
 }
 }
 
@@ -2560,7 +2646,7 @@ a:hover .allu::before{
 
 @media (max-width:877px){
 	.limaa {
-    padding-bottom: 30%;
+    padding-bottom: 26%;
 }
 
 	.duaa {
@@ -2582,9 +2668,15 @@ a:hover .allu::before{
 	}
 }
 
+@media (max-width: 843px){
+	.limaa{
+		padding-bottom:28.5%;
+	}
+}
+
 @media (max-width:836px){
 	.limaa {
-    padding-bottom: 33.5%;
+    padding-bottom:28.5%;
 }
 
 .duaa {
@@ -2604,7 +2696,7 @@ a:hover .allu::before{
 
 @media (max-width:799px){
 	.limaa {
-    padding-bottom: 37%;
+    padding-bottom: 28%;
 }
 
 	.duaa {
@@ -2629,6 +2721,12 @@ a:hover .allu::before{
 }
 }
 
+@media (max-width: 787px){
+	.limaa{
+		padding-bottom:30.5%;
+	}
+}
+
 @media (max-width: 774px){
 	.duaa {
     padding-bottom: 23.2%;
@@ -2637,7 +2735,7 @@ a:hover .allu::before{
 
 @media (max-width:771px){
 	.limaa {
-    padding-bottom: 40.7%;
+    padding-bottom: 33%;
 }
 }
 
@@ -2890,7 +2988,7 @@ a:hover .allu::before{
 
 .empatc{
 	width:50%;
-	height:256px;
+	height:271px;
 }
 
 .empatc img{
@@ -2980,6 +3078,7 @@ a:hover .allu::before{
 
 .first{
 	width:100%;
+	padding-right: 0%;
 }
 
 .one{
