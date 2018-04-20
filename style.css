@@ -124,7 +124,7 @@ body{
 }
 
 .duaa{
-	background:url(image/oren.png) 100% no-repeat;
+	background:url(image/oren.png) 13% no-repeat;
 	background-size:cover;
 }
 
@@ -698,7 +698,7 @@ body{
 }
 
 .empatc{
-	background:url(image/oren.png) 415% no-repeat;
+	background:url(image/oren.png) 460% no-repeat;
 	background-color:#ebb240;
 	height: 298px;
 }
@@ -754,7 +754,7 @@ body{
 	float:left;
 	background-color:#ff9b6d;
 	background-size:cover;
-	padding-bottom: 113px;
+	padding-bottom: 113.3px;
 }
 
 .limab{
@@ -906,7 +906,7 @@ body{
     float: left;
     background-color: #d4edbf;
     background-size: cover;
-	padding-bottom: 114px;
+	padding-bottom: 116px;
 }
 
 .tujuha h1{
