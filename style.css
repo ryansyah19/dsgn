@@ -1116,6 +1116,14 @@ a:hover .allu::before{
 }
 
 @media (max-width:1363px){
+	
+	.tujuha {
+    float: left;
+    background-color: #d4edbf;
+    background-size: cover;
+    padding-bottom: 115px;
+}
+
 	.tujuhb {
     float: left;
     background-color: #e5e9df;
@@ -1134,6 +1142,10 @@ a:hover .allu::before{
     margin-top: -22%;
     padding-left: 100%;
     display: inline-block;
+}
+
+.limaa{
+	padding-bottom:134.3px;
 }
 }
 
@@ -1192,12 +1204,20 @@ a:hover .allu::before{
     background-color: #e5e9df;
     width: 64.8%;
 }
-	.tujuha{
-		padding-bottom: 71px;
 }
+
+@media (max-width: 1347px){
+	.first{
+		    width: 30%;
+	}
 }
 
 @media(max-width:1346px){
+	
+	.tujuha{
+		padding-bottom: 114.5px;
+}
+
 	.limab {
     float: left;
     background-color: #e5e9df;
@@ -1225,7 +1245,7 @@ a:hover .allu::before{
 }
 
 	.tujuha {
-    padding-bottom: 89px;
+    padding-bottom: 132px;
 }
 }
 
@@ -1269,6 +1289,10 @@ a:hover .allu::before{
     background-color: #e5e9df;
     width: 64.3%;
 }
+
+	.tujuha {
+    padding-bottom: 131.5px;
+}
 }
 
 @media(max-width:1327px){
@@ -1286,6 +1310,9 @@ a:hover .allu::before{
 }
 
 @media(max-width:1324px){
+	.tujuha {
+    padding-bottom: 130.8px;
+}
 	
 	.empatc{
 	background: url(image/oren.png) 115% no-repeat;
@@ -1347,7 +1374,7 @@ a:hover .allu::before{
 	
 	.tujuha{
 		width: 35%;
-		padding-bottom:83px;
+		padding-bottom:125px;
 	}
 	
 	.tujuhb{
@@ -1357,21 +1384,24 @@ a:hover .allu::before{
 	.garis{
 		display:none;
 	}
+	
+	.enamb {
+    float: left;
+    background-color: #e5e9df;
+    width: 65.3%;
+    padding-bottom: 54px;
+}
 }
 
 @media (max-width:1313px){
 	.tujuha{
-		padding-bottom:82px;
+		padding-bottom:125px;
 	}
 }
 
-@media (max-width:1308px){
-	
-	.limaa{
-		padding-bottom:128px;
-	}
+@media (max-width:1311px){
 	.tujuha{
-		padding-bottom:80px;
+		padding-bottom:124px;
 	}
 }
 
@@ -1382,10 +1412,39 @@ a:hover .allu::before{
 	}
 }
 
+@media (max-width:1308px){
+	
+	.limaa{
+		padding-bottom:128px;
+	}
+	.tujuha{
+		padding-bottom:124px;
+	}
+}
+
+@media (max-width:1306px){
+	
+	.limaa{
+		padding-bottom:127px;
+	}
+	.tujuha{
+		padding-bottom:123px;
+	}
+}
+
+@media (max-width:1301px){
+	
+	.tujuha{
+		padding-bottom:122px;
+	}
+}
+
+
+
 @media (max-width:1296px){
 	
 	.tujuha{
-		padding-bottom:79px;
+		padding-bottom:121px;
 	}
 }
 
@@ -1398,10 +1457,10 @@ a:hover .allu::before{
 @media (max-width:1291px){
 	
 	.limaa{
-		padding-bottom:9%;
+		padding-bottom:9.9%;
 	}
 	.tujuha{
-		padding-bottom:6%;
+		padding-bottom:120px;
 	}
 }
 
@@ -1422,6 +1481,26 @@ a:hover .allu::before{
 
 .lope1{
 	padding-right: 3%;
+	}
+}
+
+@media (max-width:1287px){
+	
+	.limaa{
+		padding-bottom:9.9%;
+	}
+	.tujuha{
+		padding-bottom:119px;
+	}
+}
+
+@media (max-width:1282px){
+	
+	.limaa{
+		padding-bottom:9.9%;
+	}
+	.tujuha{
+		padding-bottom:118px;
 	}
 }
 
@@ -1492,6 +1571,26 @@ a:hover .all::before{
 	
 }
 
+@media (max-width: 1278px){
+	.limaa {
+    padding-bottom: 9.8%;
+}
+
+	.tujuha{
+		padding-bottom:117px;
+	}
+}
+
+@media (max-width:1272px){
+	
+	.limaa{
+		padding-bottom:9.8%;
+	}
+	.tujuha{
+		padding-bottom:116px;
+	}
+}
+
 @media (max-width: 1268px){
 	.enama {
     float: left;
@@ -1529,26 +1628,36 @@ a:hover .all::before{
 }
 }
 
-@media (max-width: 1264px){
-	.tujuha {
-    padding-bottom: 5.9%;
+@media (max-width:1267px){
+	
+	.tujuha{
+		padding-bottom:115px;
+	}
 }
 
-.limaa {
-    padding-bottom: 9.9%;
+@media (max-width: 1264px){
+	.tujuha {
+    padding-bottom: 114px;
 }
 }
 
 @media (max-width:1261px){
 	
 	.limaa {
-    padding-bottom: 9.5%;
+    padding-bottom: 9.8%;
 }
+}
+
+@media (max-width:1257px){
+	
+	.tujuha{
+		padding-bottom:113px;
+	}
 }
 
 @media (max-width: 1252px){
 	.tujuha {
-    padding-bottom: 5.8%;
+    padding-bottom: 112px;
 }
 
 	.duab{
@@ -1560,16 +1669,43 @@ a:hover .all::before{
 	}
 }
 
+@media (max-width:1247px){
+	
+	.tujuha{
+		padding-bottom:111px;
+	}
+}
+
 @media (max-width: 1244px){
 	.yellow{
 		width:62%;
 	}
 }
 
+@media (max-width:1242px){
+	
+	.tujuha{
+		padding-bottom:110px;
+	}
+}
+
 @media (max-width: 1239px){
 	.tujuha {
-    padding-bottom: 5.7%;
+    padding-bottom: 110px;
 }
+}
+
+@media (max-width:1237px){
+	
+	.tujuha{
+		padding-bottom:109px;
+	}
+}
+
+@media (max-width: 1236px){
+	.limaa{
+		padding-bottom:9.7%;
+	}
 }
 
 @media (max-width: 1235px){
@@ -1584,11 +1720,15 @@ a:hover .all::before{
     padding-left: 15%;
     padding-right: 10%;
 }
+
+.tujuha{
+	padding-bottom:107px;
+}
 }
 
 @media (max-width: 1229px){
 	.limaa {
-    padding-bottom: 9.2%;
+    padding-bottom: 9.8%;
 }
 
 	.limab img {
@@ -1599,15 +1739,49 @@ a:hover .all::before{
 }
 }
 
+@media (max-width:1228px){
+	
+	.tujuha{
+		padding-bottom:106px;
+	}
+}
+
 @media (max-width: 1227px){
 	.tujuha {
-    padding-bottom: 5.6%;
+    padding-bottom: 106px;
 }
+}
+
+@media (max-width: 1226px){
+	.limaa{
+		padding-bottom:9.6%;
+	}
+}
+
+@media (max-width:1223px){
+	
+	.tujuha{
+		padding-bottom:105.5px;
+	}
+}
+
+@media (max-width:1220px){
+	
+	.tujuha{
+		padding-bottom:105px;
+	}
+}
+
+@media (max-width:1218px){
+	
+	.tujuha{
+		padding-bottom:104px;
+	}
 }
 
 @media (max-width: 1215px){
 	.tujuha {
-    padding-bottom: 5.5%;
+    padding-bottom: 103px;
 }
 
 	.duaa{
@@ -1645,19 +1819,26 @@ a:hover .all::before{
 }
 
 	.tujuha{
-		padding-bottom:2.5%;
+		padding-bottom:67px;
+	}
+}
+
+@media (max-width:1206px){
+	
+	.tujuha{
+		padding-bottom:66px;
 	}
 }
 
 @media (max-width: 1205px){
 	.tujuha {
-    padding-bottom: 2.4%;
+    padding-bottom: 66px;
 }
 }
 
 @media (max-width: 1203px){
 	.tujuha {
-    padding-bottom: 2.3%;
+    padding-bottom: 65px;
 }
 
 	.satua{
@@ -1667,6 +1848,10 @@ a:hover .all::before{
 }
 
 @media (max-width: 1200px){
+	
+	.tujuha{
+		padding-bottom:64px;
+	}
 	
 	.visi {
     margin-top: -3%;
@@ -1700,27 +1885,46 @@ a:hover .all::before{
 }
 }
 
+@media (max-width:1197px){
+	
+	.tujuha{
+		padding-bottom:63px;
+	}
+}
+
 @media (max-width: 1195px){
 	.tujuha {
-    padding-bottom: 2.1%;
+    padding-bottom: 62px;
 }
 }
 
 @media (max-width: 1192px){
 	.tujuha {
-    padding-bottom: 2.1%;
+    padding-bottom: 62px;
 }
 }
 
-@media (max-width: 1186px){
+@media (max-width: 1190px){
 	.tujuha {
-    padding-bottom: 2%;
+    padding-bottom: 61px;
+}
+}
+
+@media (max-width: 1187px){
+	.tujuha {
+    padding-bottom: 60px;
+}
+}
+
+@media (max-width: 1184px){
+	.tujuha {
+    padding-bottom: 59px;
 }
 }
 
 @media (max-width: 1181px){
 	.tujuha {
-    padding-bottom: 1.9%;
+    padding-bottom: 58px;
 }
 }
 
@@ -1740,25 +1944,21 @@ a:hover .all::before{
     padding-left: 80%;
 }
 }
-@media (max-width: 1177px){
+
+@media (max-width: 1178px){
 	.tujuha {
-    padding-bottom: 1.8%;
+    padding-bottom: 56px;
 }
 }
 
-@media (max-width: 1192px){
+@media (max-width: 1172px){
 	.tujuha {
-    padding-bottom: 1.7%;
+    padding-bottom: 55px;
 }
 }
-
-
 
 @media (max-width: 1170px){
-	.tujuha {
-    padding-bottom: 1.6%;
-}
-
+	
 .duab{    
 	background: url(image/lampu.png) 440% 0 no-repeat;
 
@@ -1769,35 +1969,66 @@ a:hover .all::before{
 	}
 }
 
+@media (max-width: 1169px){
+	.tujuha {
+    padding-bottom: 54px;
+}
+}
+
+@media (max-width: 1166px){
+	.tujuha {
+    padding-bottom: 53px;
+}
+}
+
 @media (max-width: 1164px){
 	.tujuha {
-    padding-bottom: 1.5%;
+    padding-bottom: 52px;
 }
+}
+
+@media (max-width: 1160px){
+	.limaa{
+		padding-bottom:9.5%;
+	}
 }
 
 
 
 @media (max-width: 1159px){
 	.tujuha {
-    padding-bottom: 1.4%;
+    padding-bottom: 51px;
 }
 }
 
-@media (max-width: 1155px){
+@media (max-width: 1156px){
 	.tujuha {
-    padding-bottom: 1.3%;
+    padding-bottom: 50px;
 }
 }
+
+@media (max-width: 1154px){
+	.tujuha {
+    padding-bottom: 67px;
+}
+}
+
+@media (max-width: 1150px){
+	.tujuha {
+    padding-bottom: 66px;
+}
+}
+
 
 @media (max-width: 1148px){
 	.tujuha {
-    padding-bottom: 1.5%;
+    padding-bottom: 65px;
 }
 }
 
 @media (max-width: 1147px){
 	.limaa {
-    padding-bottom: 9.1%;
+    padding-bottom: 9.5%;
 }
 
 .duab{
@@ -1805,9 +2036,21 @@ a:hover .all::before{
 }
 }
 
+@media (max-width: 1144px){
+	.tujuha {
+    padding-bottom: 64px;
+}
+}
+
+@media (max-width: 1141px){
+	.tujuha {
+    padding-bottom: 63px;
+}
+}
+
 @media (max-width: 1138px){
 	.tujuha {
-    padding-bottom: 2.5%;
+    padding-bottom: 62px;
 }
 
 .lose {
@@ -1819,31 +2062,33 @@ a:hover .all::before{
 }
 }
 
-@media (max-width: 1134px){
+@media (max-width: 1135px){
 	.tujuha {
-    padding-bottom: 2.4%;
+    padding-bottom: 61px;
 }
 }
+
 
 @media (max-width: 1131px){
 	.limaa {
      padding-bottom: 9.5%;
 }
-	
-	.tujuha{
-		padding-bottom:2.4%;
-	}
+
+.tujuha{
+	padding-bottom:60px;
+}
+
 }
 
 @media (max-width: 1129px){
 	.tujuha {
-    padding-bottom: 2.3%;
+    padding-bottom: 59px;
 }
 }
 
 @media (max-width: 1125px){
 	.tujuha {
-    padding-bottom: 2.2%;
+    padding-bottom: 58px;
 }
 
 	.duab{
@@ -1851,15 +2096,21 @@ a:hover .all::before{
 	}
 }
 
-@media (max-width: 1121px){
+@media (max-width: 1122px){
 	.tujuha {
-    padding-bottom: 2.1%;
+    padding-bottom: 57px;
+}
+}
+
+@media (max-width: 1119px){
+	.tujuha {
+    padding-bottom: 56px;
 }
 }
 
 @media (max-width: 1116px){
 	.tujuha {
-    padding-bottom: 2%;
+    padding-bottom: 55px;
 }
 
 .limaa {
@@ -1869,7 +2120,7 @@ a:hover .all::before{
 
 @media (max-width: 1113px){
 	.tujuha {
-    padding-bottom: 2%;
+    padding-bottom: 54px;
 }
 
 	.duab{
@@ -1879,26 +2130,26 @@ a:hover .all::before{
 
 @media (max-width: 1112px){
 	.tujuha {
-    padding-bottom: 1.9%;
+    padding-bottom: 53px;
 }
 }
 
 @media (max-width: 1108px){
 	.tujuha {
-    padding-bottom: 1.8%;
+    padding-bottom: 52px;
 }
 
 }
 
 @media (max-width: 1104px){
 	.tujuha {
-    padding-bottom: 1.7%;
+    padding-bottom: 51px;
 }
 }
 
 @media (max-width: 1102px){
 	.tujuha {
-    padding-bottom: 1.7%;
+    padding-bottom: 50px;
 }
 
 	.love{
@@ -1923,13 +2174,13 @@ a:hover .all::before{
 	
 	
 	.tujuha {
-    padding-bottom: 1.6%;
+    padding-bottom: 49px;
 }
 }
 
 @media (max-width: 1097px){
 	.limaa {
-    padding-bottom: 11.3%;
+    padding-bottom: 11.2%;
 }
 }
 
@@ -1939,13 +2190,13 @@ a:hover .all::before{
 	}
 	
 	.tujuha{
-		padding-bottom:1.5%;
+		padding-bottom: 48px;
 	}
 }
 
 @media (max-width: 1091px){
 	.tujuha {
-    padding-bottom: 1.4%;
+    padding-bottom: 47px;
 }
 
 .duab{
@@ -1954,15 +2205,21 @@ a:hover .all::before{
 	}
 }
 
-@media (max-width: 1087px){
+@media (max-width: 1088px){
 	.tujuha {
-    padding-bottom: 1.3%;
+    padding-bottom: 46px;
+}
+}
+
+@media (max-width: 1085px){
+	.tujuha {
+    padding-bottom: 45px;
 }
 }
 
 @media (max-width: 1083px){
 	.tujuha {
-    padding-bottom: 1.2%;
+    padding-bottom: 44px;
 }
 }
 
@@ -1978,7 +2235,7 @@ a:hover .all::before{
 
 @media (max-width: 1080px){
 	.tujuha {
-    padding-bottom: 1.1%;
+    padding-bottom: 44px;
 }
 
 .vipi {
@@ -1990,25 +2247,49 @@ a:hover .all::before{
 }
 }
 
+@media (max-width: 1079px){
+	.tujuha {
+    padding-bottom: 43px;
+}
+}
+
+@media (max-width: 1076px){
+	.tujuha {
+    padding-bottom: 42px;
+}
+}
+
 @media (max-width: 1075px){
 	.tujuha {
-    padding-bottom: 1%;
+    padding-bottom: 42px;
+}
+}
+
+@media (max-width: 1072px){
+	.tujuha {
+    padding-bottom: 41px;
 }
 }
 
 @media (max-width: 1071px){
 	.tujuha {
-    padding-bottom: 0.9%;
+    padding-bottom: 41px;
 }
 }
 
 @media (max-width: 1069px){
 	.tujuha {
-    padding-bottom: 0.8%;
+    padding-bottom: 40px;
 }
 
 	.limaa {
     padding-bottom: 13.1%;
+}
+}
+
+@media (max-width: 1066px){
+	.tujuha {
+    padding-bottom: 39px;
 }
 }
 
@@ -2022,7 +2303,7 @@ a:hover .all::before{
 
 @media (max-width: 1064px){
 	.tujuha {
-    padding-bottom: 0.7%;
+    padding-bottom: 38px;
 }
 }
 
@@ -2465,13 +2746,19 @@ a:hover .allu::before{
 
 @media (max-width: 984px){
 	.limaa {
-    padding-bottom: 19.5%;
+    padding-bottom: 19.4%;
 }
 }
 
 @media (max-width: 983px){
 	.tujuha {
     padding-bottom: 1.1%;
+}
+}
+
+@media (max-width: 981px){
+	.limaa {
+    padding-bottom: 19.4%;
 }
 }
 
@@ -2534,6 +2821,12 @@ a:hover .allu::before{
 }
 }
 
+@media (max-width: 977px){
+	.limaa{
+		padding-bottom:25.4%;
+	}
+}
+
 @media (max-width: 976px){
 	.tujuha {
     padding-bottom: 0.9%;
@@ -2542,9 +2835,10 @@ a:hover .allu::before{
 }
 @media (max-width:976px){
 	.limaa {
-    padding-bottom: 25.5%;
+    padding-bottom: 25.4%;
 }
 }
+
 @media (max-width: 973px){
 	.tujuha {
     padding-bottom: 0.8%;
@@ -2571,7 +2865,7 @@ a:hover .allu::before{
 
 @media (max-width: 961px){
 	.tujuha {
-    padding-bottom: 0.5%;
+    padding-bottom: 5px;
 }
 
 .limaa{
@@ -2579,20 +2873,28 @@ a:hover .allu::before{
 }
 }
 
-@media (max-width: 960px){
+@media (max-width: 959px){
 	.tujuha {
-    padding-bottom: 2.1%;
-	display:none;
+    padding-bottom: 23px;
+}
 }
 
-	.tujuhb{
-		width:100%;
-	}
+@media (max-width: 958px){
+	.tujuha {
+    padding-bottom: 22px;
 }
+}
+
+@media (max-width: 955px){
+	.tujuha {
+    padding-bottom: 21px;
+}
+}
+
 
 @media (max-width: 952px){
 	.tujuha {
-    padding-bottom: 7.3%;
+    padding-bottom: 20px;
 }
 
 	.duaa {
@@ -2600,23 +2902,79 @@ a:hover .allu::before{
 }
 }
 
-@media (max-width: 943px){
+@media (max-width: 949px){
 	.tujuha {
-    padding-bottom: 7.2%;
+    padding-bottom: 2%;
+}
+}
+
+@media (max-width: 944px){
+	.tujuha {
+    padding-bottom: 18px;
+}
+}
+
+@media (max-width: 942px){
+	.tujuha {
+    padding-bottom: 17px;
 }
 }
 @media (max-width: 939px){
 	.tujuha {
-    padding-bottom: 9.1%;
+    padding-bottom: 16px;
+}
+}
+
+@media (max-width: 936px){
+	.limaa {
+    padding-bottom: 24.9%;
+}
+
+	.tujuha {
+		padding-bottom: 15px;
+	}
+}
+
+@media (max-width: 934px){
+	.tujuha {
+    padding-bottom: 46px;
+}
+}
+
+@media (max-width: 930px){
+	.limaa {
+    padding-bottom: 24.8%;
+}
+
+.tujuha{
+	padding-bottom: 45px;
 }
 }
 
 @media (max-width: 928px){
 	.tujuha {
-    padding-bottom: 9%;
+    padding-bottom: 44px;
 }
 	.duaa {
     padding-bottom: 17.3%;
+}
+}
+
+@media (max-width: 924px){
+	.tujuha {
+    padding-bottom: 43px;
+}
+}
+
+@media (max-width: 921px){
+	.tujuha {
+    padding-bottom: 42px;
+}
+}
+
+@media (max-width: 920px){
+	.limaa {
+    padding-bottom: 24.7%;
 }
 }
 
@@ -2624,11 +2982,27 @@ a:hover .allu::before{
 	.limaa {
     padding-bottom: 27%;
 }
+
+.tujuha {
+	padding-bottom: 41px;
+}
 }
 
-@media (max-width: 917px){
+@media (max-width: 914px){
 	.tujuha {
-    padding-bottom: 8.9%;
+    padding-bottom: 40px;
+}
+}
+
+@media (max-width: 911px){
+	.tujuha {
+    padding-bottom: 39px;
+}
+}
+
+@media (max-width: 910px){
+	.limaa {
+    padding-bottom: 26.9%;
 }
 }
 
@@ -2636,11 +3010,90 @@ a:hover .allu::before{
 	.duaa {
     padding-bottom: 17.9%;
 }
+
+	.tujuha {
+		padding-bottom:37px;
+	}
+}
+
+@media (max-width: 902px){
+	.tujuha {
+    padding-bottom: 36px;
+}
 }
 
 @media (max-width:901px){
 	.limaa {
-    padding-bottom: 27.1%;
+    padding-bottom: 26.8%;
+}
+
+.first {
+    width: 100%;
+    padding-right: 0%;
+}
+
+.first h3 {
+    font-family: 'RobotoCondensed-Bold';
+    font-size: 22px;
+}
+
+.first h4 {
+    font-family: 'RobotoCondensed-Regular';
+    font-size: 20px;
+    font-weight: 100;
+    margin-top: -2%;
+}
+
+.ara {
+    margin-left: 2%;
+    margin-bottom: 0%;
+}
+
+.first h5 {
+    font-size: 20px;
+}
+
+}
+
+@media (max-width: 899px){
+	.tujuha {
+    padding-bottom: 35px;
+}
+}
+
+@media (max-width: 896px){
+	.tujuha {
+    padding-bottom: 34px;
+}
+}
+
+@media (max-width: 893px){
+	.tujuha {
+    padding-bottom: 33px;
+}
+}
+
+@media (max-width: 890px){
+	.tujuha {
+    padding-bottom: 32px;
+}
+}
+
+@media (max-width: 887px){
+	.tujuha {
+    padding-bottom: 31px;
+}
+}
+
+@media (max-width: 883px){
+	.tujuha {
+    padding-bottom: 30px;
+}
+}
+
+@media (max-width: 880px){
+	.tujuha {
+    padding-bottom: 29px;
 }
 }
 
@@ -2656,6 +3109,70 @@ a:hover .allu::before{
 	.satua{
 	background-size: 800px;
 	}
+	
+	.tujuha{
+		padding-bottom: 28px;
+	}
+}
+
+@media (max-width: 874px){
+	.tujuha {
+    padding-bottom: 27px;
+}
+}
+
+@media (max-width: 870px){
+	.tujuha {
+    padding-bottom: 26px;
+}
+}
+
+@media (max-width: 868px){
+	.tujuha {
+    padding-bottom: 25px;
+}
+}
+
+@media (max-width: 865px){
+	.tujuha {
+    padding-bottom: 24px;
+}
+}
+
+@media (max-width: 862px){
+	.tujuha {
+    padding-bottom: 23px;
+}
+}
+
+@media (max-width: 859px){
+	.tujuha {
+    padding-bottom: 22px;
+}
+}
+
+@media (max-width: 856px){
+	.tujuha {
+   padding-bottom: 21px;
+}
+}
+
+@media (max-width: 852px){
+	.tujuha {
+    padding-bottom: 20px;
+}
+}
+
+@media (max-width: 849px){
+	.tujuha {
+    padding-bottom: 19px;
+}
+}
+
+@media (max-width: 846px){
+	.tujuha {
+    padding-bottom: 2%;
+}
 }
 
 @media (max-width: 847px){
@@ -2674,6 +3191,12 @@ a:hover .allu::before{
 	}
 }
 
+@media (max-width: 838px){
+	.tujuha {
+    padding-bottom:4%;
+}
+}
+
 @media (max-width:836px){
 	.limaa {
     padding-bottom:28.5%;
@@ -2684,14 +3207,26 @@ a:hover .allu::before{
 }
 }
 
+@media (max-width: 833px){
+	.tujuha {
+    padding-bottom: 3.5%;
+}
+}
+
 @media (max-width: 819px){
 	.tujuha {
-    padding-bottom: 10.9%;
+    padding-bottom: 3%;
 }
 
 	.duaa{
 		padding-bottom:21%;
 	}
+}
+
+@media (max-width: 805px){
+	.tujuha {
+    padding-bottom: 2.5%;
+}
 }
 
 @media (max-width:799px){
@@ -2721,10 +3256,22 @@ a:hover .allu::before{
 }
 }
 
+@media (max-width: 792px){
+	.tujuha {
+    padding-bottom: 2%;
+}
+}
+
 @media (max-width: 787px){
 	.limaa{
 		padding-bottom:30.5%;
 	}
+}
+
+@media (max-width: 779px){
+	.tujuha {
+    padding-bottom: 1.5%;
+}
 }
 
 @media (max-width: 774px){
@@ -2735,11 +3282,15 @@ a:hover .allu::before{
 
 @media (max-width:771px){
 	.limaa {
-    padding-bottom: 33%;
+    padding-bottom: 30.7%;
 }
 }
 
-
+@media (max-width:770px){
+	.limaa {
+    padding-bottom: 33.3%;
+}
+}
 
 @media (max-width:768px){
 	
